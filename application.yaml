@@ -1,6 +1,2 @@
-my: 
-  greeting: Hello
-  list: 
-    values: "One, Two, Three, Four"
 student: 
   numberOfStudent: 9999
