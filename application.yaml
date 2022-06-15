@@ -1,0 +1,4 @@
+my: 
+  greeting: Hello
+  list: 
+    values: "One, Two, Three"
